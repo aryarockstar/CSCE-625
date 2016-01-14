@@ -1,0 +1,8 @@
+#Comment like this
+-P -Q R S
+-A -R
+A
+P
+Q
+#NEGATION of to be proved
+-S
